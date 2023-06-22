@@ -25,3 +25,10 @@ For running the project in your local machine, follow the steps:
 	http://localhost:8080/users/10001/privileges
 	http://localhost:8080/users/10001/roles
 
+
+
+H2 Console: For in memory DB view
+-----------------------------------
+https://localhost:8080/h2-console
+
+
